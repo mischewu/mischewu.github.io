@@ -21,7 +21,7 @@ repository               : "mischewu/mischewu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Maximilian Reichert"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Erasmus University Rotterdam"
@@ -75,8 +75,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+#  books:
+#    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
