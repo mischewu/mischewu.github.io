@@ -12,7 +12,7 @@ title                    : "Maximilian Reichert"
 title_separator          : "-"
 name                     : &name "Maximilian Reichert"
 description              : &description "PhD candidate at Erasmus University Rotterdam"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mischewu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mischewu/mischewu.github.io"
 
