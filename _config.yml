@@ -25,10 +25,10 @@ author:
   name             : "Maximilian Reichert"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Erasmus University Rotterdam"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "reichert@essb.eur.nl" 
 
   # Academic websites
   arxiv            : "https://osf.io/zs2gu/"
