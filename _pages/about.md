@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-# Hello, it’s me 👀
+# Not that it matters, but I will update this website soon, I promise
