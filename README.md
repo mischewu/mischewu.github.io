@@ -1,8 +1,10 @@
 
+![Max](banner.jpg)
+
 
 - [ORCID](https://orcid.org/0009-0003-8352-7288) 
 
-# get in touch
+# Get in touch
 - reichert [at] essb.eur.nl
 - [Bluesky](https://bsky.app/profile/mischewu.bsky.social)
 
