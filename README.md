@@ -19,7 +19,6 @@ Previously [MPPSC at University of Tübingen](https://uni-tuebingen.de/fakultaet
 *Code available upon request*
 
 - **Maximilian Reichert**, Tom Emery, and Alzbeta Bartova. ‘The Critical Juncture of Childbirth: Turbulence in the Employment Trajectories of Mothers in Europe’. OSF, 17 December 2024. [https://doi.org/10.31235/osf.io/y4f3j](https://doi.org/10.31235/osf.io/y4f3j).
-
 - Boockmann, Bernhard, Heidrun Braun, **Maximilian Reichert**, and Hannah Tonn. ‘Akteure Und Konstellationen Für Einen Erfolgreichen Bürokratieabbau. Eine Analyse Anhand Der Entlastungsvorschläge Des Normenkontrollrates Baden-Württemberg (Online First)’. Dms – Der Moderne Staat – Zeitschrift Für Public Policy, Recht Und Management 17, no. 1–2024 (21 March 2024): 1–23. [https://doi.org/10.3224/dms.vXiX.340560](https://doi.org/10.3224/dms.vXiX.340560).
 
 # Conference talks
