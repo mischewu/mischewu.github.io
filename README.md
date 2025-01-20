@@ -23,10 +23,10 @@ Previously [MPPSC at University of Tübingen](https://uni-tuebingen.de/fakultaet
 
 # Conference talks
 
-- *Mar 2025*: [Gender Inequalities, Fertility, and the Future of Family Demography: Intersectionality in an Era of Family Complexity](https://www.demogr.mpg.de/en/news_events_6123/calendar_1921/gender_inequalities_fertility_and_the_future_of_family_demography_intersectionality_in_an_era_of_family_complexity_13183) at MPIDR in Rostock
-- *Mar 2025*: [10th ICWF Conference](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/projekte/icwf/) at Bielefeld University
-- *Nov. 2024*: [FIS-Forum and Social Policy Biennale](https://difis.org/api/boxfiledownload/542&ved=2ahUKEwjwnNeriP2KAxWpBNsEHZa0AjAQFnoECBgQAQ&usg=AOvVaw0dGqp08qbfpKgLNdbURBbn)
-- *Nov. 2024*: [LIVES & nccr — on the move International Conference](https://centre-lives.ch/sites/default/files/Programme_LIVES_onTheMove_International_Conference_2024.pdf) at University of Lausanne
-- *Sep. 2024*: [SLLS](https://www.slls.org.uk/events/2024-slls-annual-international-conference) at University of Essex
-- *Aug. 2024*: [ESPANET](https://events.tuni.fi/espanet2024/) at University of Tampere
+- *March 2025*: [Gender Inequalities, Fertility, and the Future of Family Demography: Intersectionality in an Era of Family Complexity](https://www.demogr.mpg.de/en/news_events_6123/calendar_1921/gender_inequalities_fertility_and_the_future_of_family_demography_intersectionality_in_an_era_of_family_complexity_13183) (MPIDR in Rostock)
+- *March 2025*: [10th ICWF Conference](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/projekte/icwf/) ( Bielefeld University)
+- *November 2024*: [FIS-Forum and Social Policy Biennale](https://difis.org/api/boxfiledownload/542&ved=2ahUKEwjwnNeriP2KAxWpBNsEHZa0AjAQFnoECBgQAQ&usg=AOvVaw0dGqp08qbfpKgLNdbURBbn)
+- *November 2024*: [LIVES & nccr — on the move International Conference](https://centre-lives.ch/sites/default/files/Programme_LIVES_onTheMove_International_Conference_2024.pdf) (University of Lausanne)
+- *September 2024*: [SLLS](https://www.slls.org.uk/events/2024-slls-annual-international-conference) at University of Essex
+- *August 2024*: [ESPANET](https://events.tuni.fi/espanet2024/) (University of Tampere)
 
