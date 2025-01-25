@@ -9,14 +9,15 @@ I am fortunate to be supervised by [Tom Emery](https://tomemery.eu) and [Alzbeta
 
 I completed the [MPPSC at the University of Tübingen](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/politikwissenschaft/studium/studium/master/master-of-public-policy-and-social-change-ma/) in 2023 and have yet to write my thesis for the [MA Philosophy & Economics at the University of Vienna](https://ssc-phil.univie.ac.at/studien/master-philosophy-and-economics/).
 
-# Current projects
-1. In my main project, I am looking to tease out between and within country differences in how leave policy and childcare usage structure parental employment in the period around childbirth. This has me grappling with the EU-SILC and experimenting with Sequence Analysis.
-2. On the side, I am experimenting with training LLMS on survey data to predict life outcomes.
-
 Get in touch:
 - reichert [at] essb.eur.nl
 - [Bluesky](https://bsky.app/profile/mischewu.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/maximilian-r-8141bb1aa/)
+
+# Current projects
+1. In my main project, I am looking to tease out between and within country differences in how leave policy and childcare usage structure parental employment in the period around childbirth. This has me grappling with the EU-SILC and experimenting with Sequence Analysis.
+2. On the side, I am experimenting with training LLMS on survey data to predict life outcomes.
+
 
 
 # Papers
