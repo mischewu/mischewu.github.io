@@ -39,3 +39,5 @@ Get in touch:
 - *August 2024*: [ESPANET](https://events.tuni.fi/espanet2024/) (University of Tampere)
 - April 2024: [Training workshop on Work-care policies, gender and social inequalities](https://sustainable-leave-policies.eu/15-november-2023-ca21150-training-school-call-work-care-policies-gender-and-social-inequalities/) (COST Action Sustainability@Leave & University of Zagreb, Faculty of Law
 
+# Research visits
+- *March to May 2025*: University of Geneva, hosted by Matthias Studer and funded by a [LIVES visitor grant](https://www.centre-lives.ch/fr/actualite/2025-lives-hosts-nine-researchers-academic-visit) (3000 CHF)
