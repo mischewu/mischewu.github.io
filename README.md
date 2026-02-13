@@ -42,5 +42,5 @@ Get in touch:
 
 # Research visits
 - *March to May 2025*: University of Geneva, hosted by Matthias Studer; funded by a [LIVES visitor grant](https://www.centre-lives.ch/fr/actualite/2025-lives-hosts-nine-researchers-academic-visit) (3000 CHF)
-- *October 2025 and January 2026*: University of Vienna, hosted by Lili Vargha, Anna Karmann, and Nadia Steiber; funded by [COST Action CA21150 on Parenting Leave Policies]{https://sustainable-leave-policies.eu/} (around 2800 EUR)
+- *October 2025 and January 2026*: University of Vienna, hosted by Lili Vargha, Anna Karmann, and Nadia Steiber; funded by [COST Action CA21150 on Parenting Leave Policies](https://sustainable-leave-policies.eu/) (around 2800 EUR)
 - *March to May 2026*: Max Planck Institute for Demographic Research (MPIDR) in Rostock, hosted by the Research Group on Gender Inequalities and Fertility
