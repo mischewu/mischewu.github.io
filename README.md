@@ -28,19 +28,19 @@ Get in touch:
 - Boockmann, Bernhard, Heidrun Braun, **Maximilian Reichert**, and Hannah Tonn. ‘Akteure Und Konstellationen Für Einen Erfolgreichen Bürokratieabbau. Eine Analyse Anhand Der Entlastungsvorschläge Des Normenkontrollrates Baden-Württemberg (Online First)’. Dms – Der Moderne Staat – Zeitschrift Für Public Policy, Recht Und Management 17, no. 1–2024 (21 March 2024): 1–23. [https://doi.org/10.3224/dms.vXiX.340560](https://doi.org/10.3224/dms.vXiX.340560).
 
 # Presentations
-- *May 2026*: [PAA 2026](https://www.populationassociation.org/paa2026/home) (St. Louis)
-- *June 2026*: [EPC 2026](https://epc2026.eaps.nl/) (Bologna)
-- *June 2026*: [ECSR 2026](https://www.ecsr2026.net/) (Dublin)
-- *September 2025*: ECSR 2026, Cologne
+- *June 2026*: [ECSR 2026](https://www.ecsr2026.net/), Dublin
+- *June 2026*: [EPC 2026](https://epc2026.eaps.nl/), Bologna
+- *May 2026*: [PAA 2026](https://www.populationassociation.org/paa2026/home), St. Louis
+- *September 2025*: ECSR 2025, Cologne
 - *August 2025*: ESPANET 2025, Milan
-- *March 2025*: [Gender Inequalities, Fertility, and the Future of Family Demography: Intersectionality in an Era of Family Complexity](https://www.demogr.mpg.de/en/news_events_6123/calendar_1921/gender_inequalities_fertility_and_the_future_of_family_demography_intersectionality_in_an_era_of_family_complexity_13183) (MPIDR in Rostock)
-- *March 2025*: [10th ICWF Conference](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/projekte/icwf/) (Bielefeld University)
+- *March 2025*: [Gender Inequalities, Fertility, and the Future of Family Demography](https://www.demogr.mpg.de/en/news_events_6123/calendar_1921/gender_inequalities_fertility_and_the_future_of_family_demography_intersectionality_in_an_era_of_family_complexity_13183), MPIDR in Rostock
+- *March 2025*: [10th ICWF Conference](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/projekte/icwf/), Bielefeld University
 - *November 2024*: [FIS-Forum and Social Policy Biennale](https://difis.org/api/boxfiledownload/542&ved=2ahUKEwjwnNeriP2KAxWpBNsEHZa0AjAQFnoECBgQAQ&usg=AOvVaw0dGqp08qbfpKgLNdbURBbn)
-- *November 2024*: [LIVES & nccr — on the move International Conference](https://centre-lives.ch/sites/default/files/Programme_LIVES_onTheMove_International_Conference_2024.pdf) (University of Lausanne)
+- *November 2024*: [LIVES & nccr — on the move International Conference](https://centre-lives.ch/sites/default/files/Programme_LIVES_onTheMove_International_Conference_2024.pdf), University of Lausanne
 - *October 2024*: [Sequence Analysis Association Webinar Series](https://sequenceanalysis.org/webinar2021/)
-- *September 2024*: [SLLS](https://www.slls.org.uk/events/2024-slls-annual-international-conference) at University of Essex
-- *August 2024*: [ESPANET](https://events.tuni.fi/espanet2024/) (University of Tampere)
-- *April 2024*: [Training workshop on Work-care policies, gender and social inequalities](https://sustainable-leave-policies.eu/15-november-2023-ca21150-training-school-call-work-care-policies-gender-and-social-inequalities/) (COST Action Sustainability@Leave & University of Zagreb, Faculty of Law)
+- *September 2024*: [SLLS](https://www.slls.org.uk/events/2024-slls-annual-international-conference), University of Essex
+- *August 2024*: [ESPANET](https://events.tuni.fi/espanet2024/), University of Tampere
+- *April 2024*: [Training workshop on Work-care policies, gender and social inequalities](https://sustainable-leave-policies.eu/15-november-2023-ca21150-training-school-call-work-care-policies-gender-and-social-inequalities/), COST Action Sustainability@Leave & University of Zagreb, Faculty of Law
 
 # Research visits
 - *March to May 2025*: University of Geneva, hosted by Matthias Studer; funded by a [LIVES visitor grant](https://www.centre-lives.ch/fr/actualite/2025-lives-hosts-nine-researchers-academic-visit) (3000 CHF)
