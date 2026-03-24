@@ -1,4 +1,3 @@
-
 ![Max](banner.jpg)
 - [ORCID](https://orcid.org/0009-0003-8352-7288)
 
@@ -15,7 +14,7 @@ Get in touch:
 - [LinkedIn](https://www.linkedin.com/in/maximilian-r-8141bb1aa/)
 
 # Current projects
-1. In the first half of my PhD, I have been looking to describe the *early childcare gap* (period between end of leave and childcare usage) from an individual level perspective, and how access to policy resources during these periods is stratified. 
+1. In the first half of my PhD, I have been looking to describe the *early childcare gap* (period between end of leave and childcare usage) from an individual level perspective, and how access to policy resources during these periods is stratified.
 2. In the second half of my PhD, I am working on compressing longitudinal life course data into embeddings, and using those to describe specific life course dynamics.
 3. With Lili Vargha and Flora Zhou, I am working on describing within country heterogeneities in absolute and relative maternal incomes after first birth in the Netherlands using Group Based Multi Trajectory Modelling
 
@@ -23,7 +22,7 @@ Get in touch:
 # Papers
 *Code available upon request*
 
-- **Maximilian Reichert**, Alzbeta Bartova, and Tom Emery. ‘Social Inequalities in the Timing of Childcare Use in Europe’. Ju75w_v1. Preprint, SocArXiv, 20 January 2026. [https://osf.io/preprints/socarxiv/ju75w_v1/]{https://osf.io/preprints/socarxiv/ju75w_v1/}.
+- **Maximilian Reichert**, Alzbeta Bartova, and Tom Emery. ‘Social Inequalities in the Timing of Childcare Use in Europe’. Ju75w_v1. Preprint, SocArXiv, 20 January 2026. https://osf.io/preprints/socarxiv/ju75w_v1/.
 - **Maximilian Reichert**, Tom Emery, and Alzbeta Bartova. ‘The Critical Juncture of Childbirth: Turbulence in the Employment Trajectories of Mothers in Europe’. OSF, 17 December 2024. [https://doi.org/10.31235/osf.io/y4f3j](https://doi.org/10.31235/osf.io/y4f3j).
 	- Summary published in [German on the DIFIS sozialpolitikblog](https://difis.org/blog/?blog=154) and [English on Social Policy Worldwide](https://socialpolicyworldwide.org/post/turbulence_in_employment_trajectories__40)
 - Boockmann, Bernhard, Heidrun Braun, **Maximilian Reichert**, and Hannah Tonn. ‘Akteure Und Konstellationen Für Einen Erfolgreichen Bürokratieabbau. Eine Analyse Anhand Der Entlastungsvorschläge Des Normenkontrollrates Baden-Württemberg (Online First)’. Dms – Der Moderne Staat – Zeitschrift Für Public Policy, Recht Und Management 17, no. 1–2024 (21 March 2024): 1–23. [https://doi.org/10.3224/dms.vXiX.340560](https://doi.org/10.3224/dms.vXiX.340560).
@@ -32,13 +31,13 @@ Get in touch:
 - *September 2025*: ECSR 2026, Cologne
 - *August 2025*: ESPANET 2025, Milan
 - *March 2025*: [Gender Inequalities, Fertility, and the Future of Family Demography: Intersectionality in an Era of Family Complexity](https://www.demogr.mpg.de/en/news_events_6123/calendar_1921/gender_inequalities_fertility_and_the_future_of_family_demography_intersectionality_in_an_era_of_family_complexity_13183) (MPIDR in Rostock)
-- *March 2025*: [10th ICWF Conference](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/projekte/icwf/) ( Bielefeld University)
+- *March 2025*: [10th ICWF Conference](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/projekte/icwf/) (Bielefeld University)
 - *November 2024*: [FIS-Forum and Social Policy Biennale](https://difis.org/api/boxfiledownload/542&ved=2ahUKEwjwnNeriP2KAxWpBNsEHZa0AjAQFnoECBgQAQ&usg=AOvVaw0dGqp08qbfpKgLNdbURBbn)
 - *November 2024*: [LIVES & nccr — on the move International Conference](https://centre-lives.ch/sites/default/files/Programme_LIVES_onTheMove_International_Conference_2024.pdf) (University of Lausanne)
 - *October 2024*: [Sequence Analysis Association Webinar Series](https://sequenceanalysis.org/webinar2021/)
 - *September 2024*: [SLLS](https://www.slls.org.uk/events/2024-slls-annual-international-conference) at University of Essex
 - *August 2024*: [ESPANET](https://events.tuni.fi/espanet2024/) (University of Tampere)
-- April 2024: [Training workshop on Work-care policies, gender and social inequalities](https://sustainable-leave-policies.eu/15-november-2023-ca21150-training-school-call-work-care-policies-gender-and-social-inequalities/) (COST Action Sustainability@Leave & University of Zagreb, Faculty of Law
+- *April 2024*: [Training workshop on Work-care policies, gender and social inequalities](https://sustainable-leave-policies.eu/15-november-2023-ca21150-training-school-call-work-care-policies-gender-and-social-inequalities/) (COST Action Sustainability@Leave & University of Zagreb, Faculty of Law)
 
 # Research visits
 - *March to May 2025*: University of Geneva, hosted by Matthias Studer; funded by a [LIVES visitor grant](https://www.centre-lives.ch/fr/actualite/2025-lives-hosts-nine-researchers-academic-visit) (3000 CHF)
