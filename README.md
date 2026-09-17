@@ -10,15 +10,6 @@ I completed the [MPPSC at the University of Tübingen](https://uni-tuebingen.de/
 Get in touch:
 - reichert [at] essb.eur.nl
 
-# Research
-
-
-**Social policies and parental trajectories.** 
-
-**Heterogeneity in childhood contexts.** 
-
-**Longitudinal and person-centred methods.** 
-
 # Peer-reviewed publications
 - **Maximilian Reichert**. 'Representation Learning and Clustering for Multi-Domain Sequence Analysis: An Application to Dutch Register Data'. In *Proceedings of the 7th International Conference on Social Computing (ICSC)*, Nuffield College, University of Oxford, 2026. **Best Paper Award**. [https://openreview.net/forum?id=MRQe1B4xwn](https://openreview.net/forum?id=MRQe1B4xwn)
 - **Maximilian Reichert**, Tom Emery, and Alzbeta Bartova. 'The Critical Juncture of Childbirth: Periodic Turbulence in the Employment Trajectories of Mothers in Europe'. *European Journal of Population*, published online 21 August 2026. [https://doi.org/10.1007/s10680-026-09782-w](https://doi.org/10.1007/s10680-026-09782-w)
